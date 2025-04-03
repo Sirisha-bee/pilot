@@ -1,2 +1,2 @@
 # pilot
-to practice gitbub copilot
+Who : To understand usage of Gitbub Copilot
